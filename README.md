@@ -7,6 +7,10 @@
  - Renewable Energy & Power Systems
  - Automation & Robotics
  - Modellling & Simulations of PhICs
+ - Optics & Photonics
+ - Image Processing
+ - Radio and Telecommunication Systems
+ - Bimedical Engineering (Medical Physics)
 
 - 🌱 I’m currently learning ...
 -   Python Coding for Data Analysis & Visualization
