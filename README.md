@@ -15,10 +15,9 @@
 - 🌱 I’m currently learning ...
 -   Python Coding for Data Analysis & Visualization
 -   AI/ML for Industrial Applications
--   
+
 - 💞️ I’m looking to collaborate on ...
 -     Research Pojects and Hands-on-Practical Solutions using AI, ML for many Applications
-- 
 - 📫 How to reach me ...
 - LinkedIn: [https://www.linkedin.com/in/matiullahkhan/]
   
