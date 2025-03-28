@@ -10,6 +10,7 @@
  - Image Processing
  - Radio and Telecommunication Systems
  - Bimedical Engineering (Medical Physics)
+ - ML, CNN Using Python
 - 🌱 I’m currently learning ...
 -   Python Coding for Data Analysis & Visualization
 -   AI/ML for Industrial Applications
